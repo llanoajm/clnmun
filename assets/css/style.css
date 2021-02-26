@@ -26,6 +26,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
 }
 
+.committee_body{
+  padding-left: 5%;
+}
 
 .links {
   color: #1f9eff;
